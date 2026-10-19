@@ -1,41 +1,34 @@
-# 🚀 Petar G. Minov | Software Developer
+# 🛡️ Petar G. Minov | Cybersecurity Enthusiast
 
-Welcome to my GitHub!  
-I'm a **software developer in training**, focused on **Java**, **Android**, and **desktop app development**.  
-I enjoy designing clean, straight-forward code and learning how to turn ideas into working software.
+Welcome to my GitHub!
 
----
+Software developer (DAM) focused on **cybersecurity**. I like understanding how
+systems really work — and how they break — and turning that into clean, practical
+tools. Trilingual: Bulgarian · Spanish · English (C2).
 
-## 🧠 About Me
+## 🎯 Focus areas
 
-- 🎓 Currently studying **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-- 💻 Building an **array of projects** as practice, from desktop to mobile.  
-- 🎮 Exploring **C# and C++ in Unity** for game development.  
-- 🐍 Learning **Python** for scripting, automation, and backend development.  
-- 🧾 Working with **Odoo (Python + XML)** for ERP customization and business management systems.  
-- 🌱 Passionate about **continuous learning**, especially in **software architecture** and **personal growth**.
+* 🔓 **Ethical hacking & red teaming** — offensive thinking, recon, attack surface.
+* 🕵️ **Digital forensics & network traffic analysis** — following the trail in the packets.
+* 🔐 **Secure programming** — writing code that doesn't hand attackers the keys.
+* 🐍 **Automation & tooling** — Python to turn manual analysis into repeatable scripts.
 
----
+## 🚀 Featured project
+
+### [SNItch](https://github.com/APIGranter/snitch) — network traffic analyzer
+From a packet capture it reveals **where a device really talks to**: geolocates
+destination IPs, checks their VirusTotal reputation, classifies the domains
+(target / tracker / device telemetry / apps) and builds an offline HTML dashboard.
+`Python` · `tshark/Wireshark` · `VirusTotal` · `OSINT`
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Java` · `Kotlin` · `C#` · `C++` · `Python` · `SQL` · `XML`
-
-**Tools & Frameworks:**  
-`Android Studio` · `IntelliJ IDEA` · `Visual Studio` · `Unity` · `Odoo` · `SQLite` · `Gradle` · `Git / GitHub`
-
-**Currently Learning:**  
-`WPF` · `Python automation` · `Unity game systems` · `Odoo customization` · `Design patterns (MVC, MVVM)`
-
----
+**Languages:** `Python` · `Java` · `Kotlin` · `C#` · `C++` · `SQL` · `XML`
+**Security & Networking:** `Wireshark / tshark` · `Kali Linux` · `VirusTotal` · `traffic analysis` · `OSINT`
+**Tools:** `Git / GitHub` · `Android Studio` · `IntelliJ IDEA` · `Visual Studio` · `SQLite`
+**Currently learning:** `ethical hacking` · `network protocols` · `digital forensics` · `security certifications`
 
 ## 📫 Contact
 
-📧 **Email:** [petargminov@gmail.com](mailto:petargminov@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/petar-g-minov-babb5623b](https://www.linkedin.com/in/petar-g-minov-babb5623b)
-
----
----
-
-> “I care about building things that work well, look clean, and mean something.”
+📧 [petargminov@gmail.com](mailto:petargminov@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/petar-g-minov)
